@@ -1,0 +1,10 @@
+interruptingcow
+matplotlib
+natsort
+nengo_spa
+numpy
+scipy
+scikit-learn
+scikit-image
+torch
+tqdm
