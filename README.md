@@ -1,6 +1,6 @@
 # Vector Symbolic Algebras for the Abstraction and Reasoning Corpus
 
-This repository contains the source code associated with ["Vector Symbolic Algebras for the Abstraction and Reasoning Corpus"](), our submission to the [ARC Prize 2025](https://www.kaggle.com/competitions/arc-prize-2025) competition.
+This repository contains the source code associated with ["Vector Symbolic Algebras for the Abstraction and Reasoning Corpus"](https://arxiv.org/abs/2511.08747), our submission to the [ARC Prize 2025](https://www.kaggle.com/competitions/arc-prize-2025) competition.
 
 ### Repository Organization
 
@@ -13,4 +13,13 @@ This repository contains the source code associated with ["Vector Symbolic Algeb
 If you use our code or paper, please cite our work as (to be updated once pre-print is released):
 
 ```
+@misc{joffe2025arcvsa,
+      title={Vector Symbolic Algebras for the Abstraction and Reasoning Corpus}, 
+      author={Isaac Joffe and Chris Eliasmith},
+      year={2025},
+      eprint={2511.08747},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.08747}, 
+}
 ```
